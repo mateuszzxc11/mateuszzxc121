@@ -6,7 +6,7 @@ http://www.grantjenks.com/
 
 Exercises
 1. Change how the ball bounces.
-"""52525
+"""5252522323
 
 import sys, pygame, random
 from pygame.locals import *
