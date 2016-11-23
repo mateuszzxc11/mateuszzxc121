@@ -90,5 +90,10 @@ while True:
     if start is not None:
         shapes[-1][-1] = pygame.mouse.get_pos()
         
+<<<<<<< HEAD
+    draw_shapes() 5556667777
+    pygame.display.flip()
+=======
     draw_shapes()
     pygame.display.flip()12312312312312312312312231231
+>>>>>>> 1721214cae079565b890fc7d90c583797f5cb1ff
