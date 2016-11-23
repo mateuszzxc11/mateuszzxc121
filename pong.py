@@ -86,4 +86,4 @@ while True:
         update()
     draw()
 
-    pygame.display.flip()
+    pygame.display.flip()kkkkkzmiana
