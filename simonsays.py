@@ -4,7 +4,7 @@ Simon Says
 Copyright (c) 2014 Grant Jenks
 http://www.grantjenks.com/
 
-Exercises
+Exercisessdsds
 1. Add more rectangles.
 """
 

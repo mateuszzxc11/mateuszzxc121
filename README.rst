@@ -1,6 +1,6 @@
-Free Python Games
+dFree Python Games
 =================
-
+dsds
 A collection (18) of free python games.
 
 In the first half of 2012, I wrote ten games to teach a group of students some basics of programming. The goal was to have fun as much as it was to learn. Here you'll find simplified versions of several classics.

@@ -1,5 +1,5 @@
 """
-Paint, for drawing shapes.
+Paint, for drawing shapes.424242
 
 Copyright (c) 2014 Grant Jenks
 http://www.grantjenks.com/
