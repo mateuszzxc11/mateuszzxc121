@@ -86,4 +86,4 @@ while True:
         update()
     draw()
 
-    pygame.display.flip()
+    pygame.display.flip()45653767567
