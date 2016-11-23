@@ -91,4 +91,4 @@ while True:
         shapes[-1][-1] = pygame.mouse.get_pos()
         
     draw_shapes()
-    pygame.display.flip()123123123123123123123122312312312321
+    pygame.display.flip()12312312312312312312312231231
