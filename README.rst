@@ -10,7 +10,7 @@ In 2013, I used these games again as part of a programming club for high school 
 In 2014, I used these games as part of week-long programming club that met in the evenings at The River Church Community in San Jose, CA. Our demographic was middle and high school students.
 
 Each game is entirely independent from the others and includes comments along with a list of exercises to work through with students. Creativity and flexibility is important. There's no right or wrong way to implement a new feature! You never know which games the students will find really interesting.
-
+42343
 Screenshots
 -----------
 
