@@ -1,4 +1,4 @@
-"""
+"""Zmiana10
 Tiles, a game of re-arranging an image.
 
 Copyright (c) 2014 Grant Jenks
