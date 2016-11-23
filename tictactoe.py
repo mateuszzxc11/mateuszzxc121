@@ -1,7 +1,7 @@
 """
 Tic Tac Toe.
 
-Copyright (c) 2014 Grant Jenks5555
+Copyright (c) 2014 Grant Jenks555544
 http://www.grantjenks.com/
 
 Exercises

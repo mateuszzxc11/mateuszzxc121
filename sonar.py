@@ -1,7 +1,7 @@
 """
 Sonar.661
 
-Copyright (c) 2014 Grant Jenks
+Copyright (c) 2014 Grant Jenksfffdsd
 http://www.grantjenks.com/
 
 Exercises

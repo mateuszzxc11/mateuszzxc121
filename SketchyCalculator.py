@@ -1,4 +1,4 @@
-# Written by Christopher Fong.5551
+# Written by Christopher Fong.5551gg
 # Copyright 2014
 # Minor edits (for JSnake) made by Grant Jenks.
 
