@@ -86,4 +86,8 @@ while True:
         update()
     draw()
 
+<<<<<<< HEAD
     pygame.display.flip()kkkkkzmiana
+=======
+    pygame.display.flip()zmiana3
+>>>>>>> f5f4227520f1e38e9fe70c564692415943731b98
